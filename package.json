@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "javasript",
+    "Backend"
+  ],
+  "author": "Shivam kumar ojha",
+  "license": "ISC"
+}
