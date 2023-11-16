@@ -1,3 +1,3 @@
 #my backend practice project
 
-This is a video series on backend with javascript
+This is a practice project on the backend with javascript
