@@ -2,14 +2,18 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "a backend practice project",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "dev":"nodemon src/index.js"
   },
   "keywords": [
     "javasript",
     "Backend"
   ],
   "author": "Shivam kumar ojha",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
